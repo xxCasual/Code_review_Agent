@@ -1,0 +1,15 @@
+.venv/
+.venv-*/
+review-agent/
+.cache/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+node_modules/
+reviews.sqlite3
+.env
+.env.*
+!.env.example
+reports/
+.DS_Store
